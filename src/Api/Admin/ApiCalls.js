@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API = axios.create({baseURL : "https://rentaride-server.onrender.com"})
+const API = axios.create({baseURL : "https://rentaride-server.onrender.com/api/admin"})
 
 const config = {
   headers : {

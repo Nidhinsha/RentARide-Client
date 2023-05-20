@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // const API = axios.create({ baseURL: "https://rentaride.online/api/user" })
-const API = axios.create({ baseURL: "https://rentaride-server.onrender.com" })
+const API = axios.create({ baseURL: "https://rentaride-server.onrender.com/api/user" })
 // some error ocuurs
 
 const config = {
